@@ -39,7 +39,7 @@ Paso 16: Además, hay que integrar un mapa que sea de Google Maps.
 Paso 17: Por último, es necesario instalar y configurar una extensión como Polylang o alguna similar para que la web pueda estar disponible en varios idiomas y no en ingles.
 
 
-# EXPLICACION VARIADA DE MI ROPIA PAGINA WEB
+# EXPLICACION VARIADA DE MI PROPIA PAGINA WEB
 
 Paso 1: Nada mas tener mi tema seleccionado escogi un buen tema de lucha libre ya que mi pagina es dedicada a la UFC (Artes Marciales Mixtas)
 
